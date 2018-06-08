@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d74b1eba-3d95-4fc3-af1a-4bc67740dffa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/133.Longest Word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/157.判断字符串是否没有重复字符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/209.First Unique Character in a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/55.比较字符串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/211.字符串置换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/212.空格替换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,20 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="158.Valid Anagram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py">
+      <file leaf-file-name="415.有效回文串.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="209.First Unique Character in a String.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/209.First Unique Character in a String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="409">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -59,10 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/31.数组划分.py" />
-        <option value="$PROJECT_DIR$/548. 两数组的交 II.py" />
-        <option value="$PROJECT_DIR$/三数之和.py" />
-        <option value="$PROJECT_DIR$/四数之和.py" />
         <option value="$PROJECT_DIR$/最接近的数.py" />
         <option value="$PROJECT_DIR$/排颜色2.py" />
         <option value="$PROJECT_DIR$/nutsandbolts.py" />
@@ -108,22 +95,25 @@
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/55.比较字符串.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/133.Longest Word.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/157.判断字符串是否没有重复字符.py" />
-        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/209.First Unique Character in a String.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/211.字符串置换.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/212.空格替换.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
-    <option name="width" value="673" />
-    <option name="height" value="585" />
+    <option name="width" value="683" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,12 +140,6 @@
             <path>
               <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="lintcode" type="462c0819:PsiDirectoryNode" />
-              <item name="算法 - 排序" type="462c0819:PsiDirectoryNode" />
-              <item name="排序" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
               <item name="算法 - 数学" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -168,6 +152,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,7 +176,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.209.First Unique Character in a String">
+  <component name="RunManager" selected="Python.415.有效回文串">
+    <configuration name="二分查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二分查找.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="133.Longest Word" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,24 +208,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/133.Longest Word.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="13.Implement strStr()" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/13.Implement strStr().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,6 +249,42 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="212.空格替换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/212.空格替换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="213.字符串压缩" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="365.二进制中有多少个1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,7 +303,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="408.二进制求和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="415.有效回文串" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,17 +311,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/二进制" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/二进制/408.二进制求和.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="寻找峰值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="最接近的数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,7 +333,25 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/寻找峰值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/最接近的数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="三数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/三数之和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -444,74 +483,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="最接近的数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/最接近的数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="二分查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二分查找.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="三数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/三数之和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.408.二进制求和" />
-      <item itemvalue="Python.13.Implement strStr()" />
-      <item itemvalue="Python.133.Longest Word" />
       <item itemvalue="Python.158.Valid Anagram" />
       <item itemvalue="Python.209.First Unique Character in a String" />
+      <item itemvalue="Python.212.空格替换" />
+      <item itemvalue="Python.213.字符串压缩" />
+      <item itemvalue="Python.415.有效回文串" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.415.有效回文串" />
+        <item itemvalue="Python.213.字符串压缩" />
+        <item itemvalue="Python.212.空格替换" />
         <item itemvalue="Python.209.First Unique Character in a String" />
         <item itemvalue="Python.158.Valid Anagram" />
-        <item itemvalue="Python.133.Longest Word" />
-        <item itemvalue="Python.13.Implement strStr()" />
-        <item itemvalue="Python.408.二进制求和" />
       </list>
     </recent_temporary>
   </component>
@@ -544,13 +529,13 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49185666" weight="0.45501858" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015649" side_tool="true" weight="0.35504887" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49843505" weight="0.34584013" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49843505" visible="true" weight="0.34584013" />
       <window_info id="Structure" order="1" sideWeight="0.5081433" side_tool="true" weight="0.18779343" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49843505" weight="0.3523654" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -632,24 +617,34 @@
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/整数/413.反转整数.py</url>
+          <url />
           <line>20</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/二进制/408.二进制求和.py</url>
+          <url />
           <line>26</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/133.Longest Word.py</url>
+          <url />
           <line>36</line>
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/209.First Unique Character in a String.py</url>
+          <url />
           <line>16</line>
           <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -659,21 +654,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="91" />
+      <option name="time" value="94" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/haxi.py" />
-    <entry file="file://$PROJECT_DIR$/920.会议室.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="1858" column="8" selection-start-line="1858" selection-start-column="8" selection-end-line="1858" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/846.多关键字排序.py" />
-    <entry file="file://$PROJECT_DIR$/寻找峰值.py" />
     <entry file="file://$PROJECT_DIR$/最大数.py" />
     <entry file="file://$PROJECT_DIR$/最接近0的字数组和.py" />
     <entry file="file://$PROJECT_DIR$/算法-排序/排序/463.整数排序.py" />
@@ -768,20 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/13.Implement strStr().py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/55.比较字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/133.Longest Word.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
@@ -789,24 +759,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/209.First Unique Character in a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/13.Implement strStr().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/55.比较字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/157.判断字符串是否没有重复字符.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="418">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="299">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/209.First Unique Character in a String.py">
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/212.空格替换.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="409">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/211.字符串置换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

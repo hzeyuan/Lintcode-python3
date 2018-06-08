@@ -29,11 +29,11 @@ class Solution:
         t.sort()
         return s == t
     """
+
     # 哈希表，判断两个字符串相同字母的个数是否相等
     # time:1165 ms
     def anagram(self, s, t):
-        table = {i: 0 for i in range(65,123)}
-        table.setdefault(32, 0)
+        table = {i: 0 for i in range(0, 123)}
         for i in range(len(s)):
             table[ord(s[i])] += 1
         for i in range(len(t)):
@@ -42,6 +42,3 @@ class Solution:
             if i != 0:
                 return False
         return True
-
-
-
