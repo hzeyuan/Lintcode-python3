@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d74b1eba-3d95-4fc3-af1a-4bc67740dffa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/211.字符串置换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/212.空格替换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1017.Similar RGB Color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1028.Rotated Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/422.最后一个单词的长度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/491.回文数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/637.Valid Word Abbreviation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/671.循环单词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/702.连接两个字符串中的不同字符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,12 +21,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="415.有效回文串.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py">
+    <leaf>
+      <file leaf-file-name="1017.Similar RGB Color.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1017.Similar RGB Color.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="418">
+              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1028.Rotated Digits.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1028.Rotated Digits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -50,15 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/最接近的数.py" />
-        <option value="$PROJECT_DIR$/排颜色2.py" />
-        <option value="$PROJECT_DIR$/nutsandbolts.py" />
-        <option value="$PROJECT_DIR$/python快排.py" />
-        <option value="$PROJECT_DIR$/最大数.py" />
-        <option value="$PROJECT_DIR$/最接近0的字数组和.py" />
-        <option value="$PROJECT_DIR$/寻找峰值.py" />
-        <option value="$PROJECT_DIR$/二分查找.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/56.两数之和.py" />
         <option value="$PROJECT_DIR$/算法-排序/排序/156. 合并区间.py" />
         <option value="$PROJECT_DIR$/算法-排序/排序/463.整数排序.py" />
         <option value="$PROJECT_DIR$/算法-排序/排序/156.合并区间.py" />
@@ -100,14 +103,24 @@
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/211.字符串置换.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/212.空格替换.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/420.报数.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/491.回文数.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/422.最后一个单词的长度.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/637.Valid Word Abbreviation.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/671.循环单词.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/702.连接两个字符串中的不同字符.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1017.Similar RGB Color.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1028.Rotated Digits.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="25" />
-    <option name="width" value="683" />
-    <option name="height" value="743" />
+    <option name="x" value="618" />
+    <option name="y" value="168" />
+    <option name="width" value="673" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -156,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../爬虫" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -176,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.415.有效回文串">
+  <component name="RunManager" selected="Python.1028.Rotated Digits">
     <configuration name="二分查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +203,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二分查找.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1028.Rotated Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/1028.Rotated Digits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,78 +244,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="158.Valid Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/158.Valid Anagram.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="209.First Unique Character in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/209.First Unique Character in a String.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="212.空格替换" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/212.空格替换.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="213.字符串压缩" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="365.二进制中有多少个1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,7 +262,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="415.有效回文串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="637.Valid Word Abbreviation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,7 +274,97 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/637.Valid Word Abbreviation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="671.循环单词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/671.循环单词.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="702.连接两个字符串中的不同字符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/702.连接两个字符串中的不同字符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="914.Flip Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="四数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/四数之和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="颜色分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/颜色分类.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -447,56 +496,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="四数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/四数之和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="颜色分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/颜色分类.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.158.Valid Anagram" />
-      <item itemvalue="Python.209.First Unique Character in a String" />
-      <item itemvalue="Python.212.空格替换" />
-      <item itemvalue="Python.213.字符串压缩" />
-      <item itemvalue="Python.415.有效回文串" />
+      <item itemvalue="Python.637.Valid Word Abbreviation" />
+      <item itemvalue="Python.671.循环单词" />
+      <item itemvalue="Python.702.连接两个字符串中的不同字符" />
+      <item itemvalue="Python.914.Flip Game" />
+      <item itemvalue="Python.1028.Rotated Digits" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.415.有效回文串" />
-        <item itemvalue="Python.213.字符串压缩" />
-        <item itemvalue="Python.212.空格替换" />
-        <item itemvalue="Python.209.First Unique Character in a String" />
-        <item itemvalue="Python.158.Valid Anagram" />
+        <item itemvalue="Python.1028.Rotated Digits" />
+        <item itemvalue="Python.914.Flip Game" />
+        <item itemvalue="Python.702.连接两个字符串中的不同字符" />
+        <item itemvalue="Python.671.循环单词" />
+        <item itemvalue="Python.637.Valid Word Abbreviation" />
       </list>
     </recent_temporary>
   </component>
@@ -529,13 +542,13 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49185666" weight="0.45501858" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015649" side_tool="true" weight="0.35504887" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49843505" weight="0.34584013" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49843505" weight="0.49755302" />
       <window_info id="Structure" order="1" sideWeight="0.5081433" side_tool="true" weight="0.18779343" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49843505" weight="0.3523654" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49843505" weight="0.3523654" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -643,8 +656,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py</url>
-          <line>6</line>
+          <line>7</line>
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -654,19 +672,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="94" />
+      <option name="time" value="103" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/最大数.py" />
-    <entry file="file://$PROJECT_DIR$/最接近0的字数组和.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/463.整数排序.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/173.链表插入排序.py" />
-    <entry file="file://$PROJECT_DIR$/链表插入排序.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/464.整数排序 II.py" />
-    <entry file="file://$PROJECT_DIR$/三数之和.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/548.两数组的交 II.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/547.两数组的交.py" />
     <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1171973157/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-269">
@@ -714,13 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/2113063981/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="1122" column="8" selection-start-line="1122" selection-start-column="8" selection-end-line="1122" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -822,10 +824,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py">
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/420.报数.py" />
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/491.回文数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/422.最后一个单词的长度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/671.循环单词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/637.Valid Word Abbreviation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/2113063981/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2842" column="8" selection-start-line="2842" selection-start-column="8" selection-end-line="2842" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/702.连接两个字符串中的不同字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1017.Similar RGB Color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1028.Rotated Digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
         </state>
       </provider>
     </entry>

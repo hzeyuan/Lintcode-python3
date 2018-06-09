@@ -3,6 +3,7 @@ class Solution:
     @param s: A string
     @return: Whether the string is a valid palindrome
     """
+    # 类似的有491题
     # time:1256ms
     def isPalindrome(self, s):
         # write your code here
