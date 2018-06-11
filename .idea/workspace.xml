@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d74b1eba-3d95-4fc3-af1a-4bc67740dffa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1017.Similar RGB Color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1028.Rotated Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/422.最后一个单词的长度.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/491.回文数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/637.Valid Word Abbreviation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/671.循环单词.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/702.连接两个字符串中的不同字符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构 -  线性结构/数组/14.二分查找.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构 -  线性结构/数组/39.恢复旋转排序数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构 -  线性结构/数组/41.最大子数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构 -  线性结构/数组/6.合并排序数组 II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1104.Judge Route Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1178.Student Attendance Record I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1243.Number of Segments in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1270.Ransom Note.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1282.Reverse Vowels of a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/1401.抽搐词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/425.电话号码的字母组合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/927.翻转字符串II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,21 +24,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="1017.Similar RGB Color.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1017.Similar RGB Color.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="927.翻转字符串II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/927.翻转字符串II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1028.Rotated Digits.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1028.Rotated Digits.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            <state relative-caret-position="82">
+              <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -62,18 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/算法-排序/排序/156. 合并区间.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/463.整数排序.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/156.合并区间.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/173.链表插入排序.py" />
-        <option value="$PROJECT_DIR$/链表插入排序.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/464.整数排序 II.py" />
-        <option value="$PROJECT_DIR$/算法-排序/548.两数组的交 II.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/547.两数组的交.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/548.两数组的交 II.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/846.多关键字排序.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/920.会议室.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/5.第k大元素.py" />
         <option value="$PROJECT_DIR$/算法-排序/排序/31.数组划分.py" />
         <option value="$PROJECT_DIR$/算法-排序/排序/49.字符大小写排序.py" />
         <option value="$PROJECT_DIR$/itertoos的使用.py" />
@@ -113,12 +95,23 @@
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1017.Similar RGB Color.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1028.Rotated Digits.py" />
+        <option value="$PROJECT_DIR$/数据结构 -  线性结构/数组/6.合并排序数组 II.py" />
+        <option value="$PROJECT_DIR$/数据结构 -  线性结构/数组/14.二分查找.py" />
+        <option value="$PROJECT_DIR$/数据结构 -  线性结构/数组/39.恢复旋转排序数组.py" />
+        <option value="$PROJECT_DIR$/数据结构 -  线性结构/数组/41.最大子数组.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1401.抽搐词.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1104.Judge Route Circle.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1282.Reverse Vowels of a String.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1270.Ransom Note.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1243.Number of Segments in a String.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/1178.Student Attendance Record I.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/425.电话号码的字母组合.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/927.翻转字符串II.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="618" />
-    <option name="y" value="168" />
+    <option name="y" value="25" />
     <option name="width" value="673" />
     <option name="height" value="555" />
   </component>
@@ -127,12 +120,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构 -  线性结构" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
@@ -161,11 +160,14 @@
               <item name="算法 - 数学" type="462c0819:PsiDirectoryNode" />
               <item name="数学" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,26 +191,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1028.Rotated Digits">
-    <configuration name="二分查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/二分查找.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="1028.Rotated Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.927.翻转字符串II">
+    <configuration name="1104.Judge Route Circle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,7 +204,61 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/1028.Rotated Digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/1104.Judge Route Circle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1243.Number of Segments in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/1243.Number of Segments in a String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1270.Ransom Note" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/1270.Ransom Note.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1282.Reverse Vowels of a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/1282.Reverse Vowels of a String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,6 +282,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="1401.抽搐词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/1401.抽搐词.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="365.二进制中有多少个1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,7 +318,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="637.Valid Word Abbreviation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="41.最大子数组" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,17 +326,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构 -  线性结构/数组" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/637.Valid Word Abbreviation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构 -  线性结构/数组/41.最大子数组.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="671.循环单词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="425.电话号码的字母组合" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,13 +348,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/671.循环单词.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/425.电话号码的字母组合.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="702.连接两个字符串中的不同字符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="927.翻转字符串II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,25 +366,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/702.连接两个字符串中的不同字符.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="914.Flip Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/927.翻转字符串II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -460,56 +498,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="颜色分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/颜色分类.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="三数之和" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/三数之和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.637.Valid Word Abbreviation" />
-      <item itemvalue="Python.671.循环单词" />
-      <item itemvalue="Python.702.连接两个字符串中的不同字符" />
-      <item itemvalue="Python.914.Flip Game" />
-      <item itemvalue="Python.1028.Rotated Digits" />
+      <item itemvalue="Python.41.最大子数组" />
+      <item itemvalue="Python.1270.Ransom Note" />
+      <item itemvalue="Python.1243.Number of Segments in a String" />
+      <item itemvalue="Python.425.电话号码的字母组合" />
+      <item itemvalue="Python.927.翻转字符串II" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1028.Rotated Digits" />
-        <item itemvalue="Python.914.Flip Game" />
-        <item itemvalue="Python.702.连接两个字符串中的不同字符" />
-        <item itemvalue="Python.671.循环单词" />
-        <item itemvalue="Python.637.Valid Word Abbreviation" />
+        <item itemvalue="Python.927.翻转字符串II" />
+        <item itemvalue="Python.425.电话号码的字母组合" />
+        <item itemvalue="Python.1243.Number of Segments in a String" />
+        <item itemvalue="Python.1270.Ransom Note" />
+        <item itemvalue="Python.41.最大子数组" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +546,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015649" side_tool="true" weight="0.35504887" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49843505" weight="0.49755302" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49843505" visible="true" weight="0.49755302" />
       <window_info id="Structure" order="1" sideWeight="0.5081433" side_tool="true" weight="0.18779343" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -664,6 +666,36 @@
           <line>24</line>
           <option name="timeStamp" value="101" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/数据结构 -  线性结构/数组/41.最大子数组.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/1401.抽搐词.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/1104.Judge Route Circle.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/1243.Number of Segments in a String.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/425.电话号码的字母组合.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/927.翻转字符串II.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -672,41 +704,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="103" />
+      <option name="time" value="117" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1171973157/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269">
-          <caret line="519" column="4" selection-start-line="519" selection-start-column="4" selection-end-line="519" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/846.多关键字排序.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/920.会议室.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/5.第k大元素.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/31.数组划分.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/49.字符大小写排序.py" />
-    <entry file="file://$PROJECT_DIR$/python快排.py" />
-    <entry file="file://$PROJECT_DIR$/itertoos的使用.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/57.三数之和.py" />
-    <entry file="file://$PROJECT_DIR$/二分查找.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="375" selection-start-line="375" selection-end-line="375" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/56.两数之和.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/58.四数之和.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/59.最接近的三数之和.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/148.颜色分类.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/143.排颜色 II.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/156.合并区间.py" />
-    <entry file="file://$PROJECT_DIR$/算法-排序/排序/184.最大数.py" />
-    <entry file="file://$PROJECT_DIR$/颜色分类.py" />
     <entry file="file://$PROJECT_DIR$/最小差.py" />
     <entry file="file://$PROJECT_DIR$/算法-排序/排序/508.摆动排序.py" />
     <entry file="file://$PROJECT_DIR$/31.数组划分.py" />
@@ -803,13 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22">
@@ -853,13 +847,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/2113063981/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2842" column="8" selection-start-line="2842" selection-start-column="8" selection-end-line="2842" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -884,7 +871,7 @@
     <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1017.Similar RGB Color.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -892,6 +879,147 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构 -  线性结构/数组/6.合并排序数组 II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构 -  线性结构/数组/14.二分查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构 -  线性结构/数组/39.恢复旋转排序数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构 -  线性结构/数组/41.最大子数组.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1401.抽搐词.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1104.Judge Route Circle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 排序/排序/56.两数之和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-877" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 排序/排序/547.两数组的交.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 排序/排序/31.数组划分.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="1657" selection-start-line="1657" selection-end-line="1657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1282.Reverse Vowels of a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1270.Ransom Note.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="203" column="4" selection-start-line="203" selection-start-column="4" selection-end-line="203" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1243.Number of Segments in a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/1178.Student Attendance Record I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/2113063981/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3751" column="6" selection-start-line="3751" selection-start-column="6" selection-end-line="3751" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/2113063981/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="137" column="8" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/425.电话号码的字母组合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/927.翻转字符串II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="45" />
         </state>
       </provider>
     </entry>
