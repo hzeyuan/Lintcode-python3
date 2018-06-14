@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d74b1eba-3d95-4fc3-af1a-4bc67740dffa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/二分法/141.x的平方根.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/二分法/28.搜索二维矩阵.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/二分法/457.经典二分查找问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/二分法/61.搜索区间.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/枚举法/3.统计数字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法 - 其他/枚举法/366.斐波纳契数列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/二分法/1219.Heaters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/字符串处理/200.最长回文子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/枚举法/46.Majority Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/枚举法/681.缺失的第一个素数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法 - 其他/枚举法/697.Sum of Square Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法- 搜索||递归||回朔/排列/197.排列序号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法- 搜索||递归||回朔/递归/15.全排列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法- 搜索||递归||回朔/递归/822.相反的顺序存储.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构 -  线性结构/数组/14.二分查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/算法 - 其他/二分法/14.二分查找.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,15 +20,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="3.统计数字.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/算法 - 其他/枚举法/3.统计数字.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="46.Majority Element.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法 - 其他/枚举法/46.Majority Element.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="15" selection-end-column="30" />
-              <folding>
-                <marker date="1528855763502" expanded="true" signature="307:316" ph="..." />
-              </folding>
+            <state relative-caret-position="233">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -54,15 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/算法-排序/排序/143.排颜色 II.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/148.颜色分类.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/184.最大数.py" />
-        <option value="$PROJECT_DIR$/颜色分类.py" />
-        <option value="$PROJECT_DIR$/最小差.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/387.最小差.py" />
-        <option value="$PROJECT_DIR$/算法-排序/排序/508.摆动排序.py" />
-        <option value="$PROJECT_DIR$/算法-排序/数学/2.尾部的零.py" />
-        <option value="$PROJECT_DIR$/算法 - 其他/整数/413.反转整数.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/整数/491.回文数.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/二进制/365.二进制中有多少个1.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/二进制/408.二进制求和.py" />
@@ -105,6 +94,15 @@
         <option value="$PROJECT_DIR$/算法 - 其他/二分法/61.搜索区间.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/枚举法/366.斐波纳契数列.py" />
         <option value="$PROJECT_DIR$/算法 - 其他/枚举法/3.统计数字.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/枚举法/681.缺失的第一个素数.py" />
+        <option value="$PROJECT_DIR$/算法- 搜索||递归||回朔/递归/15.全排列.py" />
+        <option value="$PROJECT_DIR$/算法- 搜索||递归||回朔/递归/822.相反的顺序存储.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/字符串处理/200.最长回文子串.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/枚举法/697.Sum of Square Numbers.py" />
+        <option value="$PROJECT_DIR$/算法- 搜索||递归||回朔/排列/197.排列序号.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/二分法/1219.Heaters.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/二分法/46.Majority Element.py" />
+        <option value="$PROJECT_DIR$/算法 - 其他/枚举法/46.Majority Element.py" />
       </list>
     </option>
   </component>
@@ -129,42 +127,13 @@
             <path>
               <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="lintcode" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构 -  线性结构" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构 -  线性结构" type="462c0819:PsiDirectoryNode" />
-              <item name="数组" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
               <item name="算法 - 其他" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="lintcode" type="462c0819:PsiDirectoryNode" />
               <item name="算法 - 其他" type="462c0819:PsiDirectoryNode" />
-              <item name="二进制" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
-              <item name="算法 - 其他" type="462c0819:PsiDirectoryNode" />
-              <item name="字符串处理" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
-              <item name="算法 - 其他" type="462c0819:PsiDirectoryNode" />
-              <item name="整数" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
-              <item name="算法 - 其他" type="462c0819:PsiDirectoryNode" />
-              <item name="枚举法" type="462c0819:PsiDirectoryNode" />
+              <item name="二分法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lintcode" type="b2602c69:ProjectViewProjectNode" />
@@ -199,6 +168,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/算法 - 其他/枚举法" />
       <recent name="$PROJECT_DIR$/算法 - 其他/二分法" />
       <recent name="$PROJECT_DIR$/算法-排序/排序" />
     </key>
@@ -215,25 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.61.搜索区间">
-    <configuration name="最接近的数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/最接近的数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.46.Majority Element">
     <configuration name="1104.Judge Route Circle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,7 +204,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1243.Number of Segments in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1219.Heaters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,29 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/二分法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/1243.Number of Segments in a String.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="1270.Ransom Note" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/1270.Ransom Note.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/二分法/1219.Heaters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,7 +276,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="141.x的平方根" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15.全排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,17 +284,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/二分法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法- 搜索||递归||回朔/递归" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/二分法/141.x的平方根.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法- 搜索||递归||回朔/递归/15.全排列.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="28.搜索二维矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="197.排列序号" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -368,11 +302,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/二分法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法- 搜索||递归||回朔/排列" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/二分法/28.搜索二维矩阵.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法- 搜索||递归||回朔/排列/197.排列序号.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="200.最长回文子串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/字符串处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/字符串处理/200.最长回文子串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -414,7 +366,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="61.搜索区间" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="46.Majority Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,11 +374,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/二分法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/枚举法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/二分法/61.搜索区间.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/枚举法/46.Majority Element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="697.Sum of Square Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法 - 其他/枚举法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法 - 其他/枚举法/697.Sum of Square Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -523,19 +493,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.1270.Ransom Note" />
-      <item itemvalue="Python.1243.Number of Segments in a String" />
-      <item itemvalue="Python.28.搜索二维矩阵" />
-      <item itemvalue="Python.141.x的平方根" />
-      <item itemvalue="Python.61.搜索区间" />
+      <item itemvalue="Python.15.全排列" />
+      <item itemvalue="Python.200.最长回文子串" />
+      <item itemvalue="Python.197.排列序号" />
+      <item itemvalue="Python.1219.Heaters" />
+      <item itemvalue="Python.46.Majority Element" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.61.搜索区间" />
-        <item itemvalue="Python.141.x的平方根" />
-        <item itemvalue="Python.28.搜索二维矩阵" />
-        <item itemvalue="Python.1243.Number of Segments in a String" />
-        <item itemvalue="Python.1270.Ransom Note" />
+        <item itemvalue="Python.46.Majority Element" />
+        <item itemvalue="Python.1219.Heaters" />
+        <item itemvalue="Python.197.排列序号" />
+        <item itemvalue="Python.200.最长回文子串" />
+        <item itemvalue="Python.15.全排列" />
       </list>
     </recent_temporary>
   </component>
@@ -568,6 +538,7 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49185666" weight="0.4542751" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015649" side_tool="true" weight="0.35504887" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49843505" weight="0.49755302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
@@ -581,7 +552,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -676,59 +646,89 @@
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py</url>
+          <url />
           <line>21</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/415.有效回文串.py</url>
+          <url />
           <line>7</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/914.Flip Game.py</url>
+          <url />
           <line>24</line>
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/数据结构 -  线性结构/数组/41.最大子数组.py</url>
+          <url />
           <line>19</line>
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/1401.抽搐词.py</url>
+          <url />
           <line>20</line>
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/1104.Judge Route Circle.py</url>
+          <url />
           <line>25</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/1243.Number of Segments in a String.py</url>
+          <url />
           <line>21</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/425.电话号码的字母组合.py</url>
+          <url />
           <line>15</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/927.翻转字符串II.py</url>
+          <url />
           <line>21</line>
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/二分法/141.x的平方根.py</url>
+          <url />
           <line>27</line>
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/算法 - 其他/二分法/61.搜索区间.py</url>
+          <url />
           <line>36</line>
           <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>47</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/字符串处理/200.最长回文子串.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/枚举法/697.Sum of Square Numbers.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法- 搜索||递归||回朔/排列/197.排列序号.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/二分法/1219.Heaters.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/算法 - 其他/枚举法/46.Majority Element.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="136" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -738,73 +738,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="126" />
+      <option name="time" value="137" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/整数/491.回文数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/二进制/408.二进制求和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/二进制/365.二进制中有多少个1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/8.旋转字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/133.Longest Word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/55.比较字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/157.判断字符串是否没有重复字符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/212.空格替换.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/213.字符串压缩.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/211.字符串置换.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1052,13 +989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法 - 其他/二分法/61.搜索区间.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13">
@@ -1082,11 +1012,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/算法 - 其他/枚举法/3.统计数字.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <marker date="1528855763502" expanded="true" signature="307:316" ph="..." />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法- 搜索||递归||回朔/递归/822.相反的顺序存储.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法- 搜索||递归||回朔/递归/15.全排列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/枚举法/681.缺失的第一个素数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/字符串处理/200.最长回文子串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/2113063981/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="370" column="4" selection-start-line="370" selection-start-column="4" selection-end-line="370" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/枚举法/697.Sum of Square Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法- 搜索||递归||回朔/排列/197.排列序号.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/二分法/1219.Heaters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法 - 其他/枚举法/46.Majority Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
