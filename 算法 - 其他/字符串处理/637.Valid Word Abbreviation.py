@@ -22,9 +22,25 @@ class Solution:
     @param abbr: an abbreviation
     @return: true if string matches with the given abbr or false
     """
-
+    # time:1283 ms
     def validWordAbbreviation(self, word, abbr):
         # write your code here
-        pass
+        index, word_index = 0, 0
+        while index < len(abbr):
+            if abbr[index].isalpha() and abbr[index] == word[word_index]:
+                index += 1
+                word_index += 1
+            elif abbr[index].isdigit():
+                num = index
+                while index < len(abbr) and abbr[index].isdigit():
+                    index += 1
+                word_index += int(abbr[num:index])
+                if word_index > len(word) or int(abbr[num:index]) < 10*10**(len(abbr[num:index])-2):
+                    return False
+            elif abbr[index] != word[word_index]:
+                return False
+        return True
 
 
+s = Solution()
+print(s.validWordAbbreviation("internationalization", 'i12iz4n'))
