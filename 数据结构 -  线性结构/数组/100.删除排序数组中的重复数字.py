@@ -26,7 +26,18 @@ class Solution:
                 j += 1
                 nums[j] = nums[i]
         return j + 1
-
+    """
+    # time:1166ms
+    def removeDuplicates(self, nums):
+    if not nums:
+        return  0
+    
+    for i in range(len(nums)-1,0,-1):
+        if nums[i] == nums[i-1]:
+            nums.pop(i)
+            
+    return len(nums)
+    """
 
 s = Solution()
 a =[-14, -14, -13, -13, -13, -13, -13, -13, -13, -12, -12, -12, -12, -11, -10, -9, -9, -9, -8, -7, -5, -5, -5, -5, -4,

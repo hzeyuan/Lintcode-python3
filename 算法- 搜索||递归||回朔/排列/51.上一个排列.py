@@ -31,4 +31,4 @@ class Solution:
 
 
 s = Solution()
-print(s.previousPermuation([1, 3, 2, 4, 5]))
+print(s.previousPermuation([1, 2, 3]))
