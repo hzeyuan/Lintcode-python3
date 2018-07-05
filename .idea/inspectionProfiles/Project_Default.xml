@@ -16,6 +16,7 @@
           <option value="A" />
           <option value="numbers" />
           <option value="target" />
+          <option value="t" />
         </list>
       </option>
     </inspection_tool>

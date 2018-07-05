@@ -25,3 +25,6 @@ class Solution:
         for i in range(offset):
             t = s.pop()
             s.insert(0, t)
+
+
+

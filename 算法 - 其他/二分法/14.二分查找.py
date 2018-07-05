@@ -20,15 +20,19 @@ class Solution:
     # time:853ms
     def binarySearch(self, nums, target):
         # write your code here
-        left,right = 0,len(nums)-1
+        left, right = 0, len(nums) - 1
         while left <= right:
             mid = (left + right) // 2
             if target > nums[mid]:
-                left = (left + right) // 2 +1
-            elif target < nums[mid]:
-                right = (left + right) // 2 -1
-            else:
-                for i in range(left, right + 1):
-                    if nums[i] == target:
-                        return i
+                left = mid + 1
+            elif target <= nums[mid]:
+                right = mid - 1
+        if nums[left] == target:
+            return left
+        elif nums[right] == target:
+            return right
         return -1
+
+
+s = Solution()
+print(s.binarySearch([1,2], 1))
