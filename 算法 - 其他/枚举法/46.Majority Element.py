@@ -19,7 +19,7 @@ class Solution:
     """
 
     # 贪心 O(n) 空间(1)算出哪一个是主要元素，然后在计算机主要元素的个数
-    #
+    # time:1544 ms
     def majorityNumber(self, nums):
         # write your code here
         count = 0
@@ -33,13 +33,7 @@ class Solution:
             if count == 0:
                 number = i
                 count = 1
-        count = 0
-        for i in nums:
-            if i == number:
-                count += 1
-            if count >= size:
-                return number
-        return -1
+        return number
 
 
 s = Solution()
